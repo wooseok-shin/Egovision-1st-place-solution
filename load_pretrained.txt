@@ -1,0 +1,6 @@
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/best_model/single_best_model.pth
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/ensemble_model/0Fold_model.pth
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/ensemble_model/1Fold_model.pth
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/ensemble_model/2Fold_model.pth
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/ensemble_model/3Fold_model.pth
+https://github.com/wooseok-shin/Egovision-1st-place-solution/releases/download/ensemble_model/4Fold_model.pth
