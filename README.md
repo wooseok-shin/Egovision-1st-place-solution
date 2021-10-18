@@ -31,7 +31,7 @@ python make_data.py
 ## Train
 ```python
 #1 Single Model Train
-python main.py --img_size=256 --exp_num=0
+python main.py --img_size=288 --exp_num=0
 
 #2 Multiple training using shell
 sh multi_train.sh
