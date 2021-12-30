@@ -17,8 +17,8 @@ This repository is the 1st place solution for [DACON Ego-Vision Hand Gesture Rec
 
 - 최종적으로 제출한 2가지는 5Fold Ensemble 결과 하나와 Validation이 가장 잘나온 Single Fold 모델 하나(추론 시간까지 고려했었습니다)를 제출했습니다.
 - Private 결과가 나왔을 때는 신기하게도 Single Fold 모델 하나가 선택되었습니다. 본 대회가 테스트셋이 217개로 매우 적다보니 모델 결과에도 운이 꽤 작용하는 것 같습니다.
-- 다만 안정적인 재현을 위해 해당 코드는 5Fold Ensemble로 작성하였고, Best Single Fold(0~4폴드 중 4폴드)모델은 Github에서 Pretrained Weight을 불러오도록 하였습니다.
-- 최종 결과: 5Fold Ensemble - Public:0.00627 / Single Best - Public:0.00670, Private:0.00578    (대회가 끝난 후 5Fold의 Private 결과는 알 수 없는 점이 조금 아쉬웠습니다.)
+- 다만 안정적인 재현을 위해 해당 코드는 5Fold Ensemble로 작성하였고, Best Single Fold(0~4폴드 중 4폴드)모델은 Pretrained Weight을 불러오도록 하였습니다.
+- 최종 결과: 5Fold Ensemble - Public:0.00627 / Single Best - Public:0.00670, Private:0.00578
 
 
 ## Requirements
